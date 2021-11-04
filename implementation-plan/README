@@ -1,0 +1,2 @@
+My plan for this project is to create a program that runs from the command line and is a task tracking application that allows listing, adding, completing and re-entering tasks. I also plan on having it s
+et up with a SQLite databaste where all the input will be stored/pulled from.
